@@ -187,10 +187,14 @@
   },
   "0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c": {
     "id": "0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c",
-    "name": "Pillar",
+    "name": "
+    
+    
+    ",
     "homepage": "https://pillarproject.io/",
     "chains": [
-      "eip155:1"
+      "eip155:1",
+      "eip155:56"
     ],
     "app": {
       "browser": "",
